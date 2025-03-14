@@ -16,5 +16,6 @@ This repository contains my lab solutions for the **Introduction to Mobile Robot
 
 - **Lab 04: Potential Field-based Obstacle Avoidance for a Differential Drive Robot**  
   Developing an **obstacle avoidance system** using **potential field methods** for a **differential drive robot** in **ROS 2**.  
+`https://drive.google.com/drive/folders/1gaUJXpUczxrvDAGBg1t45qFbOW7ZuGH9?usp=drive_link`
 
 Feel free to explore the repository, check out the code, and follow the progress of Lab 03! 🚀
